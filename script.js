@@ -1,5 +1,5 @@
 // Typing Effect
-const text = ["criclet lover", "Front-end web developer", "AI Builder"];
+const text = ["cricket lover", "Front-end web developer", "AI Builder"];
 let count = 0;
 let index = 0;
 let currentText = "";
@@ -73,3 +73,4 @@ window.addEventListener("resize", function() {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 });
+
